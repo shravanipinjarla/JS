@@ -35,10 +35,4 @@ This application uses the [OpenWeatherMap API](https://openweathermap.org/api) t
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/).
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize it further to fit your specific needs.
